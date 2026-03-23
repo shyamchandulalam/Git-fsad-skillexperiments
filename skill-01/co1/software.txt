@@ -1,0 +1,26 @@
+Software components
+FSAD Required Softwares 
+
+1. Git: https://git-scm.com/install/windows
+
+2. Java 21 or above: https://www.oracle.com/java/technologies/downloads/
+
+3. Eclipse IDE (Java EE / Jakarta EE Developers Edition): https://www.eclipse.org/downloads/packages/
+
+➡️ Select: Eclipse IDE for Enterprise Java and Web Developers
+
+4. Spring Tool Suite (STS) for Eclipse: https://spring.io/tools
+
+[OR] You can install Spring Tool Suite directly in Eclipse through the Eclipse Marketplace.
+
+5. MySQL Installer (Community Edition): https://dev.mysql.com/downloads/installer/
+
+➡️ Choose: mysql-installer-community (≈ 558 MB)
+
+6. Postman: https://www.postman.com/downloads/
+
+7. Visual Studio Code (VS Code): https://code.visualstudio.com/
+
+8. Node.js: https://nodejs.org/
+
+ (https://nodejs.org/)➡️ Install the LTS (Recommended) version
